@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>icon/newFile.ico</file>
+        <file>icon/open.ico</file>
+        <file>icon/save.png</file>
+        <file>icon/close.png</file>
+        <file>icon/cascade.png</file>
+        <file>icon/hor.png</file>
+        <file>icon/ver.png</file>
+        <file>icon/grid.png</file>
+        <file>icon/bold.png</file>
+        <file>icon/underscode.png</file>
+        <file>icon/italic.png</file>
+        <file>icon/saveas.png</file>
+        <file>icon/redo.png</file>
+        <file>icon/undo.png</file>
+        <file>icon/left.png</file>
+        <file>icon/mid.png</file>
+        <file>icon/right.png</file>
+    </qresource>
+</RCC>
